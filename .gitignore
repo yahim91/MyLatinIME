@@ -1,0 +1,9 @@
+/.project
+/app/build
+/.gradle
+/.idea
+/MyLatinIME.iml
+/gradlew
+/gradlew.bat
+/import-summary.txt
+/local.properties
